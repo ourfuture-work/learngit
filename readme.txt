@@ -8,3 +8,5 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 bug 分支测试
 issue101
+Creating a new branch is quick & simple.
+bug 分支测试。。。
